@@ -6,3 +6,5 @@ This is my first github repository which is about my programming fundamentals La
   - ![fast kci](https://github.com/user-attachments/assets/a61e200d-f254-4b77-926a-1418001737ac)
 * I am enrolled in BsCs Program
 * Currently, im in first semester and my section is D
+* I got admitted into Fast in year 2024 with an aggregate of 70% and will graduate in year 2028
+* Im 18 years of age
